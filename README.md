@@ -1,1 +1,1 @@
-# Ruby-puro-akaue
+### Curso de ruby puro do One Bit Code
