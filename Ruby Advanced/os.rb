@@ -1,3 +1,4 @@
+#informações sobre o PC que você está usando (exp: Sistema operacional, quantidade de cores e etc).s
 require 'os'
  
 def my_os
