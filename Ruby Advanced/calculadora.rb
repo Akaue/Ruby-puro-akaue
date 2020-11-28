@@ -10,8 +10,8 @@ loop do
  print 'Opção: '
  
  option = gets.chomp.to_i
- 
- case option 
+
+case option 
  when 1..4
    print 'Digite o primeiro número: '
    number1 = gets.chomp.to_i
@@ -32,7 +32,7 @@ loop do
    break
  else 
    result = 'Opção inválida'
- end
+end
  # Comando que limpa o console
  system "clear"
 end
